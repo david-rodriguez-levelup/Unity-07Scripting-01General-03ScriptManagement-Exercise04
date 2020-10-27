@@ -1,4 +1,15 @@
-﻿using System;
+﻿///
+/// INFORMATION
+///
+/// Project: Exercise04
+/// Date: 21/10/2020
+/// Author: Level Up
+/// Website: https://www.game-levelup.com/
+/// Programmers: David Cuenca, Pau Elias
+/// Description: Player manager. Contains all methods for managing player objects: find, add, remove, etc.
+///
+
+using System;
 using System.Collections.Generic;
 using UnityEngine;
 
